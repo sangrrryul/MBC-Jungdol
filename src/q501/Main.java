@@ -1,7 +1,7 @@
 package q501;
 
-public class Mian {
-    public static void main(String[] args) {
+public class Main {
+    public static void main() {
         System.out.println("Fun Programming!");
     }
 }
